@@ -1,4 +1,5 @@
-const BASE_URL = 'http://localhost:5000/api'
+
+const BASE_URL = 'https://udaan-backend-w244.onrender.com/api'
 
 // ── Token helpers ───────────────────────────────────────────
 export const getToken = () => localStorage.getItem('udaan_token')
