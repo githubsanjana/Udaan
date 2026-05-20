@@ -12,10 +12,17 @@ const app = express()
 
 mongoose.set('strictQuery', true)
 
+
+
 app.use(cors({
-  origin: ['http://localhost:5173', 'http://localhost:5174'],
+  origin: [
+    'http://localhost:5173',
+    'http://localhost:5174',
+    'https://udaan-flame-six.vercel.app',
+  ],
   credentials: true,
 }))
+
 app.use(express.json())
 
 app.use('/api/auth',         require('./routes/auth'))
