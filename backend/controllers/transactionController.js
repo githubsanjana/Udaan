@@ -2,8 +2,7 @@ const Transaction = require('../models/Transaction')
 const User = require('../models/User')
 const { sendFraudAlertEmail } = require('../services/emailService')
 
-const ML_SERVICE_URL = 'http://localhost:5001/predict'
-
+const ML_SERVICE_URL = 'https://udaan-ml.onrender.com/predict'
 // ── Call ML Service ─────────────────────────────────────────
 async function getMLScore(merchant, amount, txType, txTime, location) {
   try {
