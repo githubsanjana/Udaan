@@ -51,7 +51,7 @@ After login, users can access a personalized dashboard showing:
 * 🏆 Achievements & Badges
 * 📅 Activity Tracking
 
-📸 Add Dashboard Screenshot Here
+
 
 ```md id="p2d7"
 ![Dashboard](./screenshots/dashboard.png)
