@@ -38,6 +38,7 @@ The platform combines:
 * Personalized Dashboard
 
 
+
 ## 🏠 Dashboard
 
 After login, users can access a personalized dashboard showing:
@@ -50,8 +51,13 @@ After login, users can access a personalized dashboard showing:
 * 🏆 Achievements & Badges
 * 📅 Activity Tracking
 
+📸 Add Dashboard Screenshot Here
+
+```md id="p2d7"
+![Dashboard](./screenshots/dashboard.png)
 ```
 
+---
 
 ## 📚 Learning Center
 
@@ -98,6 +104,9 @@ Learn:
 
 📸 Add Learning Page Screenshot Here
 
+```md id="f9k3"
+![Learning Center](./screenshots/learning.png)
+```
 
 ---
 
@@ -228,11 +237,4 @@ Our vision with Udaan is to empower people with financial knowledge in a simple 
 * Real bank API integration
 * Community discussion forums
 * Mobile App version
-
----
-
-
-## ⭐ If you liked this project
-
-Give this repository a star on GitHub!
 
