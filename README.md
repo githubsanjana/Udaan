@@ -223,53 +223,6 @@ Automated reminders and alerts:
 
 ---
 
-## 🚀 Installation & Setup
-
-### 1️⃣ Clone the Repository
-
-```bash id="r3j9"
-git clone https://github.com/your-username/udaan.git
-```
-
-### 2️⃣ Move into Project Directory
-
-```bash id="m2v5"
-cd udaan
-```
-
-### 3️⃣ Install Dependencies
-
-#### Frontend
-
-```bash id="u8n2"
-cd client
-npm install
-```
-
-#### Backend
-
-```bash id="e5q1"
-cd server
-npm install
-```
-
----
-
-### 4️⃣ Start the Project
-
-#### Frontend
-
-```bash id="k9s4"
-npm start
-```
-
-#### Backend
-
-```bash id="y6t8"
-nodemon server.js
-```
-
----
 
 ## 🎯 Vision
 
@@ -288,14 +241,6 @@ Our vision with Udaan is to empower people with financial knowledge in a simple 
 
 ---
 
-## 👩‍💻 Developed By
-
-**Sanjana Kumari**
-
-B.Tech CSE Student
-Indira Gandhi Delhi Technical University for Women (IGDTUW)
-
----
 
 ## ⭐ If you liked this project
 
