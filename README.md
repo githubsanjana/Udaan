@@ -51,8 +51,8 @@ After login, users can access a personalized dashboard showing:
 * 🏆 Achievements & Badges
 * 📅 Activity Tracking
 
-
-![dashboard](<img width="1862" height="907" alt="1" src="https://github.com/user-attachments/assets/385bbac5-76fe-48ca-b44f-0322331ad2f4" />)
+![Dashboard](<img width="633" height="462" alt="1" src="https://github.com/user-attachments/assets/a0063d56-8288-411a-9d0e-fa5b6e603adb" />
+)
 
 
 
