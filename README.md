@@ -37,7 +37,6 @@ The platform combines:
 * Secure Authentication
 * Personalized Dashboard
 
----
 
 ## 🏠 Dashboard
 
@@ -51,14 +50,8 @@ After login, users can access a personalized dashboard showing:
 * 🏆 Achievements & Badges
 * 📅 Activity Tracking
 
-📸 Add Dashboard Screenshot Here
-
-```md id="p2d7"
-![Dashboard](<img width="1862" height="907" alt="1" src="https://github.com/user-attachments/assets/ef36b81e-f9bb-42bc-bf9e-082831825cb5" />
-)
 ```
 
----
 
 ## 📚 Learning Center
 
@@ -105,9 +98,6 @@ Learn:
 
 📸 Add Learning Page Screenshot Here
 
-```md id="f9k3"
-![Learning Center](./screenshots/learning.png)
-```
 
 ---
 
