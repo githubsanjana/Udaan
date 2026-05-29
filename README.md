@@ -54,7 +54,7 @@ After login, users can access a personalized dashboard showing:
 * 🏆 Achievements & Badges
 * 📅 Activity Tracking
 
-<img width="1290" height="483" alt="2" src="https://github.com/user-attachments/assets/7b753d9d-da5a-4964-90fd-1b8a2212ac5f" />
+<img width="1840" height="900" alt="1" src="https://github.com/user-attachments/assets/c46c29ec-291e-46eb-b711-4c70766ba0d9" />
 
 
 
@@ -118,6 +118,7 @@ Learn:
 ## ⚡ AI-Powered Fraud Detection System
 
 Udaan includes an ML-powered fraud analyzer using **Random Forest Algorithm**.
+
 <img width="1817" height="878" alt="1" src="https://github.com/user-attachments/assets/61fbe4ca-7c26-425b-a06d-4943b15e9fae" />
 
 
