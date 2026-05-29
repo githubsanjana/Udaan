@@ -51,7 +51,7 @@ After login, users can access a personalized dashboard showing:
 * 🏆 Achievements & Badges
 * 📅 Activity Tracking
 
-![Learning Center](https://github.com/user-attachments/assets/beb84a14-1fdd-403a-9c88-d0aff17a3ee8)
+
 
 
 
@@ -102,9 +102,7 @@ Learn:
 
 📸 Add Learning Page Screenshot Here
 
-```md id="f9k3"
-![Learning Center](./screenshots/learning.png)
-```
+
 
 ---
 
@@ -128,9 +126,7 @@ Users can:
 
 📸 Add Fraud Detection Screenshot Here
 
-```md id="x5r8"
-![Fraud Detection](./screenshots/fraud.png)
-```
+
 
 ---
 
@@ -148,9 +144,7 @@ Users can monitor:
 
 📸 Add Analytics Screenshot Here
 
-```md id="q7w1"
-![Analytics](./screenshots/analytics.png)
-```
+
 
 ---
 
@@ -166,9 +160,6 @@ The profile section includes:
 
 📸 Add Profile Screenshot Here
 
-```md id="t4m6"
-![Profile](./screenshots/profile.png)
-```
 
 ---
 
