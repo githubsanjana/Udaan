@@ -52,10 +52,9 @@ After login, users can access a personalized dashboard showing:
 * 📅 Activity Tracking
 
 
+![homepage](<img width="1862" height="907" alt="1" src="https://github.com/user-attachments/assets/385bbac5-76fe-48ca-b44f-0322331ad2f4" />
+)
 
-```md id="p2d7"
-![Dashboard](./screenshots/dashboard.png)
-```
 
 ---
 
