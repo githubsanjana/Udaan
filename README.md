@@ -52,7 +52,6 @@ After login, users can access a personalized dashboard showing:
 * 📅 Activity Tracking
 
 
-![Dashboard](https://github.com/user-attachments/assets/a0063d56-8288-411a-9d0e-fa5b6e603adb)
 
 
 
