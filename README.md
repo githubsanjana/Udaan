@@ -37,6 +37,9 @@ The platform combines:
 * Secure Authentication
 * Personalized Dashboard
 
+<img width="1469" height="865" alt="1" src="https://github.com/user-attachments/assets/ae43faad-d962-4113-b38e-6a54beff975e" />
+
+
 
 
 ## 🏠 Dashboard
