@@ -54,6 +54,7 @@ After login, users can access a personalized dashboard showing:
 * 🏆 Achievements & Badges
 * 📅 Activity Tracking
 
+<img width="1290" height="483" alt="2" src="https://github.com/user-attachments/assets/7b753d9d-da5a-4964-90fd-1b8a2212ac5f" />
 
 
 
@@ -67,6 +68,12 @@ The learning section contains:
 * Text explanations
 * Interactive quizzes
 * XP rewards after completion
+
+<img width="1856" height="893" alt="1" src="https://github.com/user-attachments/assets/c7f4cc4c-4b35-431b-a244-49347066258f" />
+
+
+<img width="1016" height="808" alt="2" src="https://github.com/user-attachments/assets/4582814c-19f9-4d21-b14d-929e618cf059" />
+
 
 ### 💰 Smart Budgeting
 
@@ -111,6 +118,8 @@ Learn:
 ## ⚡ AI-Powered Fraud Detection System
 
 Udaan includes an ML-powered fraud analyzer using **Random Forest Algorithm**.
+<img width="1817" height="878" alt="1" src="https://github.com/user-attachments/assets/61fbe4ca-7c26-425b-a06d-4943b15e9fae" />
+
 
 ### Features:
 
@@ -143,8 +152,10 @@ Users can monitor:
 * Module-wise performance
 * Quiz history
 * Learning streaks
+  
 
-📸 Add Analytics Screenshot Here
+<img width="1839" height="889" alt="1" src="https://github.com/user-attachments/assets/bc4b70c2-01b2-41a6-a8e3-030496b35d1e" />
+
 
 
 
@@ -160,7 +171,8 @@ The profile section includes:
 * Data export option
 * Edit profile functionality
 
-📸 Add Profile Screenshot Here
+<img width="1838" height="874" alt="1" src="https://github.com/user-attachments/assets/32d5d1cf-9197-4d9a-aea8-40d80df746bc" />
+
 
 
 ---
