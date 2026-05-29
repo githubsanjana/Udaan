@@ -51,7 +51,12 @@ After login, users can access a personalized dashboard showing:
 * 🏆 Achievements & Badges
 * 📅 Activity Tracking
 
-
+<img 
+  src="https://github.com/user-attachments/assets/beb84a14-1fdd-403a-9c88-d0aff17a3ee8" 
+  alt="Learning Center" 
+  width="907" 
+  height="819"
+/>
 
 
 
