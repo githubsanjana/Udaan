@@ -136,7 +136,6 @@ Users can:
 * Detect suspicious activities
 * Download fraud reports
 
-📸 Add Fraud Detection Screenshot Here
 
 
 
